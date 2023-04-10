@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(17 24 39);
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    color:rgb(255, 81, 191);
+    font-size: 55px
+}
+
+li {
+    font-family: Helvetica, sans-serif;
+    color: rgb(144, 15, 15);
+    font-size: 24px
+}
+
+.link {
+    color: whitesmoke
+}
+
